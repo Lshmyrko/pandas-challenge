@@ -1,0 +1,19 @@
+After sorting data in "district summary" DataFrame we can see that we have total of 15 schools with 39,170 students, budget for all schools combined $24,649,428.00
+Average Math Score is 78, Avarage Reading Score 82, % Passing Math score is 75, % Passing Reading 86, % Overall Passing 65.
+This shows as just a general picture how is district doing but we have to dive dipper.
+I created a DataFrame "School Summary" You can see that we precented with two types of schools District and Charter schools. 
+Charter schools are segnificantly smaller than District schools by total of students.
+Moving forward to our next analysys we can tell that Highest performing schools in a district are Charter schools and Buttom performing are District schools. 
+Per stydent budget shows us that District schools spend more or same money per student.
+Dosen't look like budgetting is impacting students passing rate.
+Looks like school type impacts students performance the most.
+Also when we take a look at "Spending summary" Schools wich spend per student <$580 have average Overall Passing score of 90%.
+Schools with highest spending per student $645 - 680 have average Overall Passing score of 53%.
+Small and medium schools have the highest Overall passing.
+Charter schools have Overall passing score of 90% and District 53%.
+To fully understand that the reason for better performance is a size of the school,
+It would be usefull to recive addisional data on a sizes of the class.
+
+
+
+
